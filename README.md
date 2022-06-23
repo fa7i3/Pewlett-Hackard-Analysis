@@ -4,7 +4,7 @@ The purpose of this analysis is to determine who will be retiring based on the d
 
 # Resources Used.
 * Original csv files:
- < departments.csv
+ > departments.csv
  2)  dept_emp.csv
  3)  dept_manager.csv
  4)  employees.csv
