@@ -2,7 +2,7 @@
 # Overview.
 
 # Resources Utilized to Complete Analysis
-* Data Sources: csv files ( https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv
+* Data Sources: csv files (departments.csv
 
 https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv
 
