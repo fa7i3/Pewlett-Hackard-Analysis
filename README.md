@@ -1,5 +1,6 @@
 # Pewlett-Hackard-Analysis.
 # Overview.
+https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv
 
 # Pewlett Hackard Employee Database ERD
 The Database ERD shows the flow of information between different tables, or CSV files which highlights the primary keys, foreign keys and different data types for each column.
@@ -14,5 +15,6 @@ According to the analysis, out of the 90,038 employees likely to retire aoon, th
 
 ![retiring_titles pic](https://user-images.githubusercontent.com/104453593/175187996-fbbdd2b8-1fb0-4816-9dca-780046ddf6ce.PNG)
 
-* Expected Retirees by Department:
+* Expected Retirees by Department: 
+
 * Employees Eligible to participate in the Mentorship Program:
