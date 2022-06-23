@@ -5,18 +5,18 @@ The purpose of this analysis is to determine who will be retiring based on the d
 # Resources Used.
 > Original csv files:
    * departments.csv
- 2)  dept_emp.csv
- 3)  dept_manager.csv
- 4)  employees.csv
- 5)  salaries.csv
- 6)  titles.csv
+   * dept_emp.csv
+   * dept_manager.csv
+   * employees.csv
+   * salaries.csv
+   * titles.csv
 
-* Softwares used:
- 1) PostgreSQL
- 2) pgAdmin
+> Softwares used:
+   * PostgreSQL
+   * pgAdmin
 
-* Entity Relationship Diagram (ERD) Tool:
- 1) Quick Database Diagrams
+> Entity Relationship Diagram (ERD) Tool:
+   * Quick Database Diagrams
  
 # Pewlett Hackard Employee Database ERD
 The Database ERD shows the flow of information between different tables, or CSV files which highlights the primary keys, foreign keys and different data types for each column.
