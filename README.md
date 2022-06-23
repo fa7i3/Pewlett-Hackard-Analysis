@@ -3,8 +3,8 @@
 The purpose of this analysis is to determine who will be retiring based on the date of birth and date hired, the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. The analysis also helps to generate a list of employees eligible to receive a retirement package and how many job titles will be open after those employees retire. 
 
 # Resources Used.
-* Original csv files:
- > departments.csv
+> Original csv files:
+   * departments.csv
  2)  dept_emp.csv
  3)  dept_manager.csv
  4)  employees.csv
