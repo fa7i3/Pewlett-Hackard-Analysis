@@ -25,6 +25,8 @@ The Database ERD shows the flow of information between different tables, or CSV 
 
 # Results.
 * Getting the number of Expected Retirees: According to the analysis, the unique_titles table containing the number of employees (90,398) likely to retire soon was created by joining both the employees and titles tables, filtering the tables by date of birth and date hired, removing duplicates, and arranging the data points by date hired. 
+
+https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv
 * Total Expected Retirees: 
 According to the analysis, 90,398 employees will likely retire soon out of 300,024 employees at the company.
 * Titles for Expected Retirees: 
