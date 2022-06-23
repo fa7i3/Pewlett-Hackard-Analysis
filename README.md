@@ -31,6 +31,7 @@ According to the analysis, 90,398 employees will likely retire soon out of 300,0
 According to the analysis, out of the 90,038 employees likely to retire aoon, the majority are Engineers, closely followed by Staff members and the Manager with the least count.
 
 ![retiring_titles pic](https://user-images.githubusercontent.com/104453593/175187996-fbbdd2b8-1fb0-4816-9dca-780046ddf6ce.PNG)
+[dept_info.csv](https://github.com/fa7i3/Pewlett-Hackard-Analysis/files/8964435/dept_info.csv)
 
 * Employees Eligible to participate in the Mentorship Program:
 According to the analysis, 1,549 employees are eligible to participate in the Pewlett Hackard's mentorship program.
