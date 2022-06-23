@@ -1,16 +1,7 @@
 # Pewlett-Hackard-Analysis.
 # Overview.
 
-# Resources Utilized to Complete Analysis
-* Data Sources: csv files (departments.csv
+# Pewlett Hackard Employee Database ERD
+The Database ERD shows the flow of information between different tables, or CSV files which highlights the primary keys, foreign keys and different data types for each column.
 
-https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv
-
-https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv
-
-https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv
-
-https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv
-
-https://github.com/fa7i3/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv )
-
+![EmployeeDB](https://user-images.githubusercontent.com/104453593/175185784-b8e02050-19c7-45d1-ae05-0b178ad26cb6.png)
