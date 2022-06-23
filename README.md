@@ -2,5 +2,5 @@
 # Overview.
 
 # Resources Utilized to Complete Analysis
-o Data Sources:
+* Data Sources:
 
