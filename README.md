@@ -4,16 +4,13 @@ The purpose of this analysis is to determine who will be retiring based on the d
 
 # Resources Used.
 > Original csv files:
-   * departments.csv
-   * dept_emp.csv
-   * dept_manager.csv
-   * employees.csv
    * salaries.csv
    * [departments.csv](https://github.com/fa7i3/Pewlett-Hackard-Analysis/files/8964452/departments.csv)
    * [dept_emp.csv](https://github.com/fa7i3/Pewlett-Hackard-Analysis/files/8964456/dept_emp.csv)
-
-
-   * titles.csv
+   * [dept_manager.csv](https://github.com/fa7i3/Pewlett-Hackard-Analysis/files/8964463/dept_manager.csv)
+   * [employees.csv](https://github.com/fa7i3/Pewlett-Hackard-Analysis/files/8964476/employees.csv)
+   * [salaries.csv](https://github.com/fa7i3/Pewlett-Hackard-Analysis/files/8964480/salaries.csv)
+   * [titles.csv](https://github.com/fa7i3/Pewlett-Hackard-Analysis/files/8964481/titles.csv)
 
 > Softwares used:
    * PostgreSQL
