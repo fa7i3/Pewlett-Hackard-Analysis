@@ -17,7 +17,7 @@ The purpose of this analysis is to determine who will be retiring based on the d
 
 > Entity Relationship Diagram (ERD) Tool:
    * Quick Database Diagrams
-   * EmployeeDB.png
+  
 # Pewlett Hackard Employee Database ERD
 The Database ERD shows the flow of information between different tables, or CSV files which highlights the primary keys, foreign keys and different data types for each column.
 
